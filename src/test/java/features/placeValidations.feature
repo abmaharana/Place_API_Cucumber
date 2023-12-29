@@ -20,6 +20,4 @@ Feature:Test place API
     When user calls "DeletePlaceAPI" api with "post" http request
     Then the api call is success with status code 200
     And "status" in response body is "OK"
-
-#    This is a dummy comment
-  #This is a 2nd dummy comment
+    
