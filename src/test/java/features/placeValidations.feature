@@ -12,7 +12,7 @@ Feature:Test place API
     Examples:
     |name     |language   |address      |
     |Swarg    |Hindi      |Bhubaneswar  |
-    #|Kutir    |Odia       |Puri         |
+    |Kutir    |Odia       |Puri         |
 
   @DeletePlace @Abhishek @Regression
   Scenario: Verify delete api
