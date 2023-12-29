@@ -23,4 +23,3 @@ Feature:Test place API
 
 #    This is a dummy comment
   #This is a 2nd dummy comment
-  #This is a file
