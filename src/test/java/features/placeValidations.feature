@@ -22,3 +22,4 @@ Feature:Test place API
     And "status" in response body is "OK"
 
 #    This is a dummy comment
+  #This is a 2nd dummy comment
