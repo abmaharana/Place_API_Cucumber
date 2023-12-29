@@ -21,8 +21,8 @@ Feature:Test place API
     Then the api call is success with status code 200
     And "status" in response body is "OK"
     
-#a
+#1
 #b
 #c
-#d
+#5
 #e
