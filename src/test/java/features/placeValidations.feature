@@ -12,7 +12,7 @@ Feature:Test place API
     Examples:
     |name     |language   |address      |
     |Swarg    |Hindi      |Bhubaneswar  |
-    #|Kutir    |Odia       |Puri         |
+    |Kutir    |Odia       |Puri         |
 
   @DeletePlace @Abhishek @Regression
   Scenario: Verify delete api
@@ -22,8 +22,10 @@ Feature:Test place API
     And "status" in response body is "OK"
 
 
+
 #a
 #b
 #c
 #d
 #e
+
